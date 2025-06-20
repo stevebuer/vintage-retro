@@ -1,2 +1,2 @@
 # vintage
-Vintage computing information
+vintage computing information

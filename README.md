@@ -4,4 +4,4 @@
 * Easy Z80
 * Minimax 8085
 * Atari 2600 Jr.
-
+* Gigatron

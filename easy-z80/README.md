@@ -2,7 +2,7 @@
 
 Very nice board for Z80 machine with RC2014 bus.
 
-<img src="images/easy-z80-pcb.jpg" width="200"><img src="images/easy-z80-sockets.jpg" width="200">
+<img src="img/easy-z80-pcb.jpg" width="200"><img src="img/easy-z80-sockets.jpg" width="200">
 
 ## Bill of Materials
 
